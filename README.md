@@ -6,9 +6,9 @@
 ---
 
 ## Summary  
-Unity Developer with 5+ years of experience, including two large-scale commercial projects (Android & WebGL).  
-Specialized in **ECS**, performance optimization, and building **scalable client–server architecture**.  
-Experienced in **team leadership** and mentoring. 
+Unity Developer with 5+ years of experience, including two large-scale commercial projects (Android/iOS & WebGL).  
+Specialized performance optimization, and building **scalable client–server architecture**.  
+Experienced in **ECS**, **team leadership** and mentoring. 
 Additionally, 4+ years as a **Full-Stack Java Developer** (ERP, BPM systems).  
 
 ---
